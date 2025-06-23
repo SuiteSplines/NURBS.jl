@@ -1,7 +1,7 @@
 name = "NURBS"
 uuid = "3119edd0-0685-4064-9500-10252e0e5727"
 authors = ["René Hiemstra <rrhiemstar@gmail.com>", "Michał Mika <michal@mika.sh>"]
-version = "0.12.0"
+version = "0.12.1"
 
 [deps]
 AbstractMappings = "7dac2afd-1bf6-47b8-bc94-9dcdcd19d527"
@@ -15,7 +15,7 @@ TensorProductBsplines = "89f2e70f-f704-4f07-9b81-69bdc44074b1"
 UnivariateSplines = "2552f6ce-f0d6-4ba3-bf39-bb338613ee69"
 
 [compat]
-AbstractMappings = "^0.8.2"
+AbstractMappings = "^0.9.0"
 CartesianProducts = "^0.15.0"
 IgaBase = "^0.8.0"
 KroneckerProducts = "^0.13.0"
