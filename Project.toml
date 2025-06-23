@@ -20,8 +20,8 @@ CartesianProducts = "^0.15.0"
 IgaBase = "^0.9.0"
 KroneckerProducts = "^0.13.0"
 SortedSequences = "^0.6.2"
-TensorProductBsplines = "^0.8.2"
-UnivariateSplines = "^0.14.0"
+TensorProductBsplines = "^0.8.3"
+UnivariateSplines = "^0.15.0"
 
 [extras]
 AbstractMappings = "7dac2afd-1bf6-47b8-bc94-9dcdcd19d527"
